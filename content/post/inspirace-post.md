@@ -1,13 +1,7 @@
 ---
-title:  "Inspirace pro cosplay"
-tags: - cosplay
-      - pinterest
-      - inspirace
-    
+title:  "Inspirace pro cosplay"   
 ---
-Spoustu inspirativních fotek a obrázků lze nalézt právě na pinterestu. Autoři ze sebe často vytváří od originálu nerozpoznatelné kopie svých oblíbených charakterů.
 
-<a data-pin-do="embedPin" data-pin-lang="cs" href="https://www.pinterest.com/pin/388013324143937011/"></a>
+Na internetu můžeme najít spoustu materiálu, ktré nás dokáží inspirovat k tvorbě cosplay charakterů. Mezi takové zdroje můžeme zařadit například i videa na youtube.
 
-<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZT1q6hcSBXw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
